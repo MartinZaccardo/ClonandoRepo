@@ -9,6 +9,10 @@ import ar.edu.unlam.pb2.eva03.enumeradores.TipoDeBatalla;
 public class TestCases {
 
 	@Test
+	public void pruebaGit() {
+		// Hola mundo
+	}
+	@Test
 	public void queSePuedaCrearUnObjetoVolador() {
 		Volador avion = new Avion(1, "A-10");
 
